@@ -48,5 +48,4 @@ cd bank-assist
 # Install dependencies
 npm install
 
-### Demonstration Video
-
+## Demonstration Video
