@@ -12,6 +12,17 @@ An intelligent, React-based banking assistant that leverages the **Gemini 3 Flas
 ## 🎯 Project Objective
 The goal was to build a mini-banking assistant capable of interpreting user queries, providing contextual transaction details, and handling complex API states (Loading, Error, Rate Limits) within a modern React environment.
 
+---
+
+## 📺 Live Demonstration
+Click the image below to view the assistant in action:
+
+[![Watch the Demo]("C:\Users\P7500016\Videos\Bank-Assist-App.mp4")](YOUR_VIDEO_LINK_HERE)
+
+> **Note:** If you haven't recorded a video yet, you can replace the link above with a GIF of your app for an even more impressive "instant-play" effect on GitHub.
+
+---
+
 ## 🌟 Key Features
 
 *   **🧠 Intelligent Interpretation**: Contextually understands queries like "Why was ₹5000 debited?" by referencing mock account data.
@@ -47,5 +58,3 @@ cd bank-assist
 
 # Install dependencies
 npm install
-
-## Demonstration Video
