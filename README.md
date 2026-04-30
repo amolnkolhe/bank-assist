@@ -1,6 +1,4 @@
-# generate_fancy_readme.py
-
-readme_content = """# 🏦 BankAssist: AI-Powered Customer Support Assistant
+# 🏦 BankAssist: AI-Powered Customer Support Assistant
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
